@@ -33,6 +33,7 @@ Power Query for data cleaning and transformation
 DAX for calculations and measures
 
 📊 Dashboards Overview
+
 1️⃣ HR Employee Attrition Dashboard
 
 Focuses on identifying who is leaving the organization and why, using churn contribution and churn rate analysis.
@@ -46,6 +47,7 @@ Shows workforce composition across age, salary, department, job role, education,
 Analyzes manager ratings and performance outcomes to understand employee productivity patterns.
 
 🔍 Key Insights
+
 🔴 Attrition Dashboard Insights
 
 Contribution-wise Attrition:
